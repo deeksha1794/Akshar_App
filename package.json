@@ -1,0 +1,37 @@
+{
+  "name": "Akshar",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "native-base": "^2.12.1",
+    "prismjs": "^1.16.0",
+    "prop-types": "^15.7.2",
+    "react": "16.8.3",
+    "react-native": "0.59.8",
+    "react-native-bottom-toolbar": "^4.2.1",
+    "react-native-circle-drawer": "^1.0.0",
+    "react-native-elements": "^1.1.0",
+    "react-native-gesture-handler": "^1.2.1",
+    "react-native-navbar": "^2.1.0",
+    "react-native-simple-radio-button": "^2.7.3",
+    "react-native-vector-icons": "^6.4.2",
+    "react-native-webview": "^5.8.2",
+    "react-navigation": "^3.9.1",
+    "react-simple-code-editor": "^0.9.10"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.4",
+    "@babel/runtime": "7.4.4",
+    "babel-jest": "24.8.0",
+    "jest": "24.8.0",
+    "metro-react-native-babel-preset": "0.54.0",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
