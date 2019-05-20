@@ -1,0 +1,2 @@
+# Akshar_App
+An Interview Preparation App which helps UI developers to learn and prep up for the interview and gain confidence.​  This app will help you prepare for any job interview related to the web development world.​  You will be able to choose the topic of your interest , go through the concepts ,answer the quiz and go ahead to interview questions.​  Most importantly it is  a handy mobile App, which you can rely on  to study, along with code editor section.​
